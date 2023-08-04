@@ -17,3 +17,9 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.contenedor {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+}
